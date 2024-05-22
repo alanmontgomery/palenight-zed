@@ -1,0 +1,7 @@
+id = "palenight"
+name = "Palenight Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Alan Montgomery <alanmontgomerycoding@gmail.com>"]
+description = "The popular Palenight theme now in Zed!"
+repository = "https://github.com/alanmontgomery/palenight-zed"
